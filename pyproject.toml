@@ -1,0 +1,19 @@
+[project]
+name = "masten"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "catboost>=1.2.8",
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+    "linearmodels>=7.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.1",
+    "pandas>=2.3.3",
+    "pathlib>=1.0.1",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.17.0",
+    "statsmodels>=0.14.6",
+]
